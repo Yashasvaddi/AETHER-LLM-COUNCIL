@@ -1,0 +1,34 @@
+DEBATE: Is china occupied by india?...
+Started: 2026-01-23T01:51:34.763110
+================================================================================
+
+--- ROUND 1 ---
+
+[Pro-A] (PRO):
+I'm excited to argue in favor of "Is China occupied by India?" being FALSE.
+
+To begin, China is a sovereign state with its own government, economy, and military. It has been an independent nation since the Qing dynasty's collapse in 1912. India, on the other hand, is a separate country with its own borders, capital, and institutions. There is no credible evidence to suggest that India occupies or controls any part of China.
+
+In fact, the two countries have had diplomatic relations since the 1950s and have cooperated on various international issues. It's essential to recognize their distinct identities and sovereignty. Addressing this factor as TRUE would undermine the very concept of nationhood and international diplomacy.
+
+[Con-A] (CON):
+ERROR: not enough values to unpack (expected 2, got 1)
+
+
+--- ROUND 2 ---
+
+[Pro-A] (PRO):
+Thank you for the opportunity to debate!
+
+I'd like to start by addressing [Pro-A]'s claim that there is no credible evidence to suggest India occupies or controls any part of China. While it's true that China is an independent nation, it's crucial to acknowledge that historical records and archaeological findings have revealed a complex relationship between ancient Chinese dynasties and Indian kingdoms.
+
+Furthermore, [Pro-A] failed to mention the disputed border territories along the Sino-Indian frontier, where tensions have been escalating in recent years. This ongoing territorial dispute raises questions about China's sovereignty and India's involvement.
+
+In conclusion, it's essential to consider both historical and contemporary evidence when evaluating this factor.
+
+[Con-A] (CON):
+ERROR: not enough values to unpack (expected 2, got 1)
+
+
+================================================================================
+Ended: 2026-01-23T01:51:46.824998

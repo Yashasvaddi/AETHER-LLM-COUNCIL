@@ -1,0 +1,36 @@
+DEBATE: Is china occupied by india?...
+Started: 2026-01-23T01:30:59.075971
+================================================================================
+
+--- ROUND 1 ---
+
+[Pro-A] (PRO):
+ERROR: 404 Client Error: Not Found for url: http://164.52.211.24/yashas/models
+
+[Pro-B] (PRO):
+ERROR: 404 Client Error: Not Found for url: http://164.52.211.24/yashas/models
+
+[Con-A] (CON):
+ERROR: 404 Client Error: Not Found for url: http://164.52.211.24/yashas/models
+
+[Con-B] (CON):
+ERROR: 404 Client Error: Not Found for url: http://164.52.211.24/yashas/models
+
+
+--- ROUND 2 ---
+
+[Pro-A] (PRO):
+ERROR: 404 Client Error: Not Found for url: http://164.52.211.24/yashas/models
+
+[Pro-B] (PRO):
+ERROR: 404 Client Error: Not Found for url: http://164.52.211.24/yashas/models
+
+[Con-A] (CON):
+ERROR: 404 Client Error: Not Found for url: http://164.52.211.24/yashas/models
+
+[Con-B] (CON):
+ERROR: 404 Client Error: Not Found for url: http://164.52.211.24/yashas/models
+
+
+================================================================================
+Ended: 2026-01-23T01:31:17.144187

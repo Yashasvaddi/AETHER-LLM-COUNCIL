@@ -1,0 +1,36 @@
+DEBATE: Is china occupied by india?...
+Started: 2026-01-23T01:12:52.055076
+================================================================================
+
+--- ROUND 1 ---
+
+[Pro-A] (PRO):
+ERROR: 530 Server Error: <none> for url: https://godfatherpersonalcomputer.shop/asklaptop
+
+[Pro-B] (PRO):
+ERROR: 530 Server Error: <none> for url: https://godfatherpersonalcomputer.shop/asklaptop
+
+[Con-A] (CON):
+ERROR: 530 Server Error: <none> for url: https://godfatherpersonalcomputer.shop/asklaptop
+
+[Con-B] (CON):
+ERROR: 530 Server Error: <none> for url: https://godfatherpersonalcomputer.shop/asklaptop
+
+
+--- ROUND 2 ---
+
+[Pro-A] (PRO):
+ERROR: 530 Server Error: <none> for url: https://godfatherpersonalcomputer.shop/asklaptop
+
+[Pro-B] (PRO):
+ERROR: 530 Server Error: <none> for url: https://godfatherpersonalcomputer.shop/asklaptop
+
+[Con-A] (CON):
+ERROR: 530 Server Error: <none> for url: https://godfatherpersonalcomputer.shop/asklaptop
+
+[Con-B] (CON):
+ERROR: 530 Server Error: <none> for url: https://godfatherpersonalcomputer.shop/asklaptop
+
+
+================================================================================
+Ended: 2026-01-23T01:13:12.859459
