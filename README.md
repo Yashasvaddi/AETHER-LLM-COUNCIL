@@ -1,4 +1,4 @@
-# AETHER---LLM-COUNCIL
+# AETHER-LLM-COUNCIL
 
 AETHER is an experimental multi-agent AI framework designed around the concept of collaborative intelligence. Instead of relying on a single language model to generate responses, AETHER creates a “council” of specialized LLM agents that independently analyze a problem, challenge each other’s reasoning, and collectively arrive at a refined final output.
 
